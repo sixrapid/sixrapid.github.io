@@ -1,0 +1,15 @@
+---
+title: Example
+---
+
+## Example
+
+This is an example post!
+
+### Subsection
+
+Other intriguing stuff here.
+
+### Another subsection
+
+Perhaps one day a real blog post will appear here...
