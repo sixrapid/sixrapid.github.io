@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    background: rgb(248, 249, 250);
+}
+
+.content {
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 40px;
+    text-align: center;
+}
+
+.subtitle {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 50%;
+    max-width: 70%;
+    height: auto;
+}
+
+.bio {
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 30px;
+    width: 80%;
+}
+
+.links {
+    width: 80%;
+    margin: 0 auto;
+    padding: 0px;
+    text-align: center;
+}
+
+.link-wrapper {
+    display: inline-block;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 20px;
+    color: #404040;
+}
+
+.material-icons {
+    font-size: 72px !important;
+}
